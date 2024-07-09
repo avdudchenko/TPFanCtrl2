@@ -95,6 +95,8 @@ protected:
 	int IndSmartLevel;
 	int SensorOffset[16];
 	int FSensorOffset[16];
+	
+	double SensorMultiplier[16];
 	int iFarbeIconB;
 	int iFontIconB;
 	int icontemp;
